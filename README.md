@@ -17,7 +17,7 @@
 - [The Design of Everyday Things](https://drive.google.com/open?id=1jJXihLBriOlc7OUCEHBs53btUjpZPr_9)
 - [Don't Make Me Think](https://github.com/abhijit838/ebooks/blob/master/Don't%20Make%20Me%20Think%2C%20Revisited%2C%203rd%20Edition.pdf)
 
-#### Online Reads :desktop:
+#### Online Reads :computer:
 - [Playbook](https://askplaybook.com/) -  helpful advice for anyone wanting to spruce up their portfolio
 - [Apple - Human Interface Guidelins](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 - [Material Design](https://material.io/design/)
