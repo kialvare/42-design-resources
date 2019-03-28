@@ -1,6 +1,6 @@
 # 42 UX/UI Design Club
 
-> Currently being updated
+> Currently being updated please send @kimothy any resources or suggestions to add!
 
 #### Symbols
 
